@@ -14,7 +14,7 @@ I'm traveling from Montreal, so it's a 550KM drive that took 7 hours because the
 
 Once arrived, I parked the car just beside the venue, got to shower, and then on to the welcome reception!
 Got my badge, saluted a couple of people I remembered from last year, and just generally was sooooo excited! The place is packed with C++ legends and great speakers! (Kate gregory, Ben Deane, Matt Godbolt, Timur Doumler, Jessica Karr, all of them!) Everyone was very easy to talk to and the conversations were a great insight at what we would live for the next 3 days....
-![IMG_3221](https://github.com/joblobob/conferences/assets/5419436/7a3c1048-8be8-4fd6-8c5b-40dbea72c19e)
+![IMG_3213](https://github.com/joblobob/conferences/assets/5419436/ed54a77d-7779-4fd7-9347-f87ffdfb871b)
 
 I love the city (because of last year's CppNorth) so I walked to the water front to sit and relax before going to bed. The city lights are great at night!
 
