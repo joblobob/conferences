@@ -20,6 +20,14 @@ I love the city (because of last year's CppNorth) so I walked to the water front
 
 ## Day 1
 
+And so it begins!!!
+![IMG_3214](https://github.com/joblobob/conferences/assets/5419436/82aaca0f-9807-4ef3-b261-b50b31b5b3de)
+
+The included breakfast is a welcomed addition by everyone since we can chat a little before going onto the opening keynote! 
+Mike Daum gets on stage and starts with the appropriate opening speach, then sets the bar high for Kate Gregory but she absolutely nailed it once again! The opening keynote was all about sharing her HUGE experience with us. It's going to be a instant bookmark once it's on Youtube! I loved the segment on 'taking notes' to become the 'expert' and be able to settle arguments using our notes. Also shifting left for people, asking them if they are alright ('Are you ok?'), I already tired and it really helped understand the mindset behind some code.
+Before we can even realize it, the keynote is over and is going to have to be re-watched a couple of times :-)
+
+
 ## Day 2
 
 ## Day 3
