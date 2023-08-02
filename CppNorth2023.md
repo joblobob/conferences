@@ -24,8 +24,13 @@ And so it begins!!!
 ![IMG_3214](https://github.com/joblobob/conferences/assets/5419436/82aaca0f-9807-4ef3-b261-b50b31b5b3de)
 
 The included breakfast is a welcomed addition by everyone since we can chat a little before going onto the opening keynote! 
-Mike Daum gets on stage and starts with the appropriate opening speach, then sets the bar high for Kate Gregory but she absolutely nailed it once again! The opening keynote was all about sharing her HUGE experience with us. It's going to be a instant bookmark once it's on Youtube! I loved the segment on 'taking notes' to become the 'expert' and be able to settle arguments using our notes. Also shifting left for people, asking them if they are alright ('Are you ok?'), I already tired and it really helped understand the mindset behind some code.
+
+Mike Daum gets on stage and starts with the appropriate opening speach, then sets the bar high for Kate Gregory but she absolutely nailed it once again! 
+
+The opening keynote was all about sharing her HUGE experience with us. It's going to be a instant bookmark once it's on Youtube! I loved the segment on 'taking notes' to become the 'expert' and be able to settle arguments using our notes. Also shifting left for people, asking them if they are alright ('Are you ok?'), I already tired and it really helped understand the mindset behind some code.
 Before we can even realize it, the keynote is over and is going to have to be re-watched a couple of times :-)
+
+I stayed in the 'Vanity Fair' room for 'Building Interfaces That Are Hard to Use Incorrectly' By Andreas Weis. Very good intro into hardening interfaces, making good use of scoped enums, structs, designated initializers to prevent at compile time, the misuse of an interface, great! As always, never use bool or an arbitrary number for a parameter!!
 
 
 ## Day 2
