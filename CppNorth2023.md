@@ -8,7 +8,7 @@ Let's go!
 
 ## Travel
 
-I chose to go by car, because last year I missed the ending keynote becouse I had to take my flight back home. This time I wanted to participate in everything, watch everything, and talk to everyone! (almost done!)
+I chose to go by car, because last year I missed the ending keynote because I had to take my flight back home. This time I wanted to participate in everything, watch everything, and talk to everyone! (almost done!)
 
 I'm traveling from Montreal, so it's a 550KM drive that took 7 hours because the highway 401 got closed to clear out an accident. I'm a speaker this year, so I had the chance to practice my presentation while driving. It took almost the full lenght of the trip to try to remember it, and practice 'punch lines', and I think it was a great exercise. Having the slides in front of us to practice is much different then doing it in our head, and I think it really helped me be more natural in transitions.
 
@@ -27,10 +27,14 @@ The included breakfast is a welcomed addition by everyone since we can chat a li
 
 Mike Daum gets on stage and starts with the appropriate opening speach, then sets the bar high for Kate Gregory but she absolutely nailed it once again! 
 
-The opening keynote was all about sharing her HUGE experience with us. It's going to be a instant bookmark once it's on Youtube! I loved the segment on 'taking notes' to become the 'expert' and be able to settle arguments using our notes. Also shifting left for people, asking them if they are alright ('Are you ok?'), I already tired and it really helped understand the mindset behind some code.
+The opening keynote **Steps to Wisdom for C++ Developers** was all about sharing her HUGE experience with us. This is going to be an instant bookmark once it's on Youtube! I loved the segment on 'taking notes' to become the 'expert' and be able to settle arguments using our notes. Also shifting left for people, asking them if they are alright ('Are you ok?'), I already tired and it really helped understand the mindset behind some code.
 Before we can even realize it, the keynote is over and is going to have to be re-watched a couple of times :-)
 
-I stayed in the 'Vanity Fair' room for 'Building Interfaces That Are Hard to Use Incorrectly' By Andreas Weis. Very good intro into hardening interfaces, making good use of scoped enums, structs, designated initializers to prevent at compile time, the misuse of an interface, great! As always, never use bool or an arbitrary number for a parameter!!
+After a quick coffee nreak, I stayed in the 'Vanity Fair' room for **Building Interfaces That Are Hard to Use Incorrectly** By Andreas Weis. Very good intro into hardening interfaces, making good use of scoped enums, structs, designated initializers to prevent the misuse of an interface at compile time, great! As always, never use bool or an arbitrary number for a parameter!!
+
+Then it's time for a quick lunch provided by the conference, woohoo!! This gives us more time to talk and meet new people! C++ passionates like me are aplenty here!!
+
+Then hard decisions time! Miro Knejp and Amir Kirsh are on at the same time as on of my favorite speaker... Ben Deane! His **Calendrical C++: std::chrono, History, Mathematics and the Computus** was just perfect on the amount of usable content (std::chrono uses and placticalities) and funny factoids about calculating the date of easter! I asked him afterwards if his coding style (auto function return type with trailing named type) was used for aligment or juste personnal stying preference? (Yeah, I ask weird questions sometimes but I read so much code that I like to know the reasoning behind everyone's tastes, hehe)
 
 
 ## Day 2
