@@ -42,15 +42,28 @@ And then... some talk by Victor Ciura, his **And Then() Some(T)** take on more f
 
 Ending the day with **C++ and Safety** by Timur Doumler couldn't have been better. The overview of the 'safety' situation and impressions from the 'industry' gave a nice common ground for the rest of the conference. I heared a lot of people talk about safety in a more logical way afterwards. Timur scored big with a reasonable and mature approach to the compromises we have to do to get safe code. Myths were debunked and steps towards safer coding standards were shown.
 
-After the talks, the conference wasn't over! I was invited to the speaker's dinner! A chance to talk about programming and C++ with the leaders of their fields, the cream of the crop! But after some very good food, I realised that we're all alike, only humnas doing our best in this ocean of code chaos. I was happy to hear that 'they' were also intimitated by features like co_routines, and that most of them hadn't used Modules yet. Nor MDSpan! Conor told me that he had never seen anyone as excited about Modules as I am, great! Wait and see until I talk about MDSpan then... they are going to be everywhere in my presentation! 
+After the talks, the conference wasn't over! I was invited to the speaker's dinner! A chance to talk about programming and C++ with the leaders of their fields, the cream of the crop! But after some very good food, I realised that we're all alike, only humans doing our best in this ocean of code chaos. I was happy to hear that 'they' were also intimitated by features like co_routines, and that most of them hadn't used Modules yet. Nor MDSpan! Conor told me that he had never seen anyone as excited about Modules as I am, great! Wait and see until I talk about MDSpan then... they are going to be everywhere in my presentation! 
+
+After the dinner, I got to walk around and sit close to the fountain in a park really close to the hotel, the weather was super nice, which let me sink in my thoughts for rehearsing some parts oy my talk...
 
 ## Day 2
 
-I had a hard time finding sleep yesterday, I kept thinking about my intro, and my outtro. I woke up very early, and started to remove 2 slides because I thought I would run out of time... I also re-re-re-checked the animations because some of them didn't want to behave... Pfff..... calm down! I went down for breakfast and a coffee, just one! Because otherwise I'll run around the for the entire talk :-P
+I had a hard time finding sleep yesterday, I kept thinking about my intro, and my outtro. I woke up very early, and started to remove 2 slides because I thought I would run out of time... I also re-re-re-checked the animations because some of them didn't want to behave yesterday... Pfff..... calm down! I went down for breakfast and a coffee, just one! Because otherwise I'll run around the for the entire talk :-P
 
 But before we start...
 
-Ben Deane's keynote was 
+Ben Deane's keynote was super nice, and altough I'll have to re-watch it because my mind was sometimes projecting itself in the very near future, I could related to the parts when he was talking about the *good* king of lazyness, testing is not easy, let's make it as easy to contribute to as possible, and that part about not overthinking for change, but acknowledge that change will in fact come. 
+
+Great pacing, time flew, and it's now already time to prepare for mine! Grabbed some water, plugged in the laptop, got to chat a bit, got micced and....
+![IMG_3217](https://github.com/joblobob/conferences/assets/5419436/52180d5b-2904-41e7-98f9-21e35ab5972c)
+
+People started to show up... (Matt Godbolt and Ben Deane front row for me!!! Thanks a lot!!!)
+![IMG_3220](https://github.com/joblobob/conferences/assets/5419436/f60d97ac-5540-416b-8f50-3e0cb52680e8)
+
+One more shot for posterity, yes, I was reallllly there!! Doing this!!!
+![IMG_3221](https://github.com/joblobob/conferences/assets/5419436/d49d4499-48b3-4e7a-b35b-4be9de8094de)
+
+
 
 ## Day 3
 
