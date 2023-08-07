@@ -16,6 +16,8 @@ Once arrived, I parked the car just beside the venue, got to shower, and then on
 Got my badge, saluted a couple of people I remembered from last year, and just generally was sooooo excited! The place is packed with C++ legends and great speakers! (Kate gregory, Ben Deane, Matt Godbolt, Timur Doumler, Jessica Karr, all of them!) Everyone was very easy to talk to and the conversations were a great insight at what we would live for the next 3 days....
 ![IMG_3213](https://github.com/joblobob/conferences/assets/5419436/ed54a77d-7779-4fd7-9347-f87ffdfb871b)
 
+I find a group of people to get to the 'real' talks.... the after hours meal and beers of course! Conor Hoekstra is a local and helped us find a comfy and quiet place, that our presence quicky made much more lively, hehe. It was very nice to talk to a very diverse group of programmers. We talked about what learned during the day, and of course, I started to spoil some animations and topics from my own talk that is scheduled for tuesday after the Keynote, oh oh ! More on that soon....
+
 I love the city (because of last year's CppNorth) so I walked to the water front to sit and relax before going to bed. The city lights are great at night!
 
 ## Day 1
@@ -40,10 +42,15 @@ And then... some talk by Victor Ciura, his **And Then() Some(T)** take on more f
 
 Ending the day with **C++ and Safety** by Timur Doumler couldn't have been better. The overview of the 'safety' situation and impressions from the 'industry' gave a nice common ground for the rest of the conference. I heared a lot of people talk about safety in a more logical way afterwards. Timur scored big with a reasonable and mature approach to the compromises we have to do to get safe code. Myths were debunked and steps towards safer coding standards were shown.
 
-Now that the 'official' talks are over, we find a group of people to get to the 'real' talks.... the after conference meal and beers of course! Conor Hoekstra is a local and helped us find a comfy and quiet place, that our presence quicky made much more lively, hehe. It was very nice to talk to a very diverse group of programmers. We talk about what learned during the day, and of course, I start to spoil some animations and topics from my own talk that is scheduled for tuesday after the Keynote, more on that soon....
-
+After the talks, the conference wasn't over! I was invited to the speaker's dinner! A chance to talk about programming and C++ with the leaders of their fields, the cream of the crop! But after some very good food, I realised that we're all alike, only humnas doing our best in this ocean of code chaos. I was happy to hear that 'they' were also intimitated by features like co_routines, and that most of them hadn't used Modules yet. Nor MDSpan! Conor told me that he had never seen anyone as excited about Modules as I am, great! Wait and see until I talk about MDSpan then... they are going to be everywhere in my presentation! 
 
 ## Day 2
+
+I had a hard time finding sleep yesterday, I kept thinking about my intro, and my outtro. I woke up very early, and started to remove 2 slides because I thought I would run out of time... I also re-re-re-checked the animations because some of them didn't want to behave... Pfff..... calm down! I went down for breakfast and a coffee, just one! Because otherwise I'll run around the for the entire talk :-P
+
+But before we start...
+
+Ben Deane's keynote was 
 
 ## Day 3
 
