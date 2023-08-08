@@ -63,7 +63,14 @@ People started to show up... (Matt Godbolt and Ben Deane front row for me!!! Tha
 One more shot for posterity, yes, I was reallllly there!! Doing this!!!
 ![IMG_3221](https://github.com/joblobob/conferences/assets/5419436/d49d4499-48b3-4e7a-b35b-4be9de8094de)
 
+And off we go!!! **Do you like physics simulations aaaannnd C++? Me too!**
+![intro-for-github-trip-report4](https://github.com/joblobob/conferences/assets/5419436/ceadca7f-5593-4ec4-ac1e-639ff7a781dd)
 
+And now we conclude!!! (yeah, the quality looks horrible, I had to compress it a lot for the web!)
+![outtro-for-github-trip-report2](https://github.com/joblobob/conferences/assets/5419436/bc7c6d08-1e31-4ac0-acb2-3ca5effb98fa)
+
+
+This was a blast!! I managed to make the attendance make 'the wave' to explain the way the fluid grid and particles are used. The audience was on fire! (might have been the speaker also, hehe) If you want to learn how to use **Modules, Ranges, MDSpan, parallel execution, format, consteval** aaaaaannnnnnd also see some cool fluid animations along the way, go check this on Youtube! I created this talk to be able to learn the new exciting features of C++23 and at the same time learn about fluid simulations! I think it worked because I asked everyone if they learned anything during my talk and even Ben Deane did! :-D
 
 ## Day 3
 
