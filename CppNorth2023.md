@@ -52,25 +52,40 @@ I had a hard time finding sleep yesterday, I kept thinking about my intro, and m
 
 But before we start...
 
-Ben Deane's keynote was super nice, and altough I'll have to re-watch it because my mind was sometimes projecting itself in the very near future, I could related to the parts when he was talking about the *good* king of lazyness, testing is not easy, let's make it as easy to contribute to as possible, and that part about not overthinking for change, but acknowledge that change will in fact come. 
+Ben Deane's keynote **Optimizing for Change** was super nice, and altough I'll have to re-watch it because my mind was sometimes projecting itself in the very near future, I could related to the parts when he was talking about the *good* kind of lazyness, testing is not easy, let's make it as easy to contribute to as possible, and that part about not overthinking for change, but acknowledge that change will in fact come. 
 
 Great pacing, time flew, and it's now already time to prepare for mine! Grabbed some water, plugged in the laptop, got to chat a bit, got micced and....
+
 ![IMG_3217](https://github.com/joblobob/conferences/assets/5419436/52180d5b-2904-41e7-98f9-21e35ab5972c)
 
 People started to show up... (Matt Godbolt and Ben Deane front row for me!!! Thanks a lot!!!)
+
 ![IMG_3220](https://github.com/joblobob/conferences/assets/5419436/f60d97ac-5540-416b-8f50-3e0cb52680e8)
 
 One more shot for posterity, yes, I was reallllly there!! Doing this!!!
+
 ![IMG_3221](https://github.com/joblobob/conferences/assets/5419436/d49d4499-48b3-4e7a-b35b-4be9de8094de)
 
 And off we go!!! **Do you like physics simulations aaaannnd C++? Me too!**
+
 ![intro-for-github-trip-report4](https://github.com/joblobob/conferences/assets/5419436/ceadca7f-5593-4ec4-ac1e-639ff7a781dd)
 
 And now we conclude!!! (yeah, the quality looks horrible, I had to compress it a lot for the web!)
+
 ![outtro-for-github-trip-report2](https://github.com/joblobob/conferences/assets/5419436/bc7c6d08-1e31-4ac0-acb2-3ca5effb98fa)
 
 
-This was a blast!! I managed to make the attendance make 'the wave' to explain the way the fluid grid and particles are used. The audience was on fire! (might have been the speaker also, hehe) If you want to learn how to use **Modules, Ranges, MDSpan, parallel execution, format, consteval** aaaaaannnnnnd also see some cool fluid animations along the way, go check this on Youtube! I created this talk to be able to learn the new exciting features of C++23 and at the same time learn about fluid simulations! I think it worked because I asked everyone if they learned anything during my talk and even Ben Deane did! :-D
+That was a blast!! I managed to make the attendance make **'the wave'** to explain the way the fluid's grid and particles are used. The audience was on fire! (might have been the speaker also, hehe)
+
+If you want to learn how to use **Modules, Ranges, MDSpan, parallel execution, format, consteval** aaaaaannnnnnd also see some cool fluid animations along the way, go check this on Youtube! I created this talk to be able to learn the exciting new features of C++23 and at the same time learn about fluid simulations! I always understand features and learn much faster when I can *see* the effects of my changes right away. I never thought that I would be learning so much while creating this presentation! I would have been happy learning and using only modules, but instead, the sum of all the features that I learned changed my way of thinking, structuring and writing code. The data is always the key... If you don't understand the data, you don't understand the problem!
+
+I also had a lot of good feedback! :-D
+
+One good point is Richard Powell told me that I should have shown an overview of the code at the end, like I did at the beginning to get a better feel for the changes to modules, you are absolutely right, thanks Richard! Also thaht I could've use Qt's multimedia module for sound generation, hehe, yup! ;-)
+
+Being on the stage of an international C++ conference has always been a dream of mine, now I hope I'll inspire others to share their passion! 
+
+So.... no time for realizeing too much what just happened, we're getting lunch at the St-Lawrence market!
 
 ## Day 3
 
