@@ -85,7 +85,11 @@ One good point is Richard Powell told me that I should have shown an overview of
 
 Being on the stage of an international C++ conference has always been a dream of mine, now I hope I'll inspire others to share their passion! 
 
-So.... no time for realizeing too much what just happened, we're getting lunch at the St-Lawrence market!
+So.... no time for realizing too much what just happened, we're getting lunch at the St-Lawrence market! What a nice place to discover! I missed it last year, how could I! 
+
+Back in time for Conor Hoekstra's **Composition Intuition** talk! A quick but thorough overview (?) of APL, BQN, array languages and combinators. I didn't know much about those languages, and even though they feel quite far from my field, I like the logic behind them. 
+
+
 
 ## Day 3
 
