@@ -87,10 +87,24 @@ Being on the stage of an international C++ conference has always been a dream of
 
 So.... no time for realizing too much what just happened, we're getting lunch at the St-Lawrence market! What a nice place to discover! I missed it last year, how could I! 
 
-Back in time for Conor Hoekstra's **Composition Intuition** talk! A quick but thorough overview (?) of APL, BQN, array languages and combinators. I didn't know much about those languages, and even though they feel quite far from my field, I like the logic behind them. 
+Back in time for Conor Hoekstra's **Composition Intuition** talk! A quick but thorough overview (?) of APL, BQN, array languages and combinators. I didn't know much about those languages, and even though they feel quite far from my field, I like the logic behind them. *It's all another level of abstraction*, lovely.
 
+After a little break, **Typical C++, But Why?** by Björn Fahller picked my curiosity. I liked the config struct pattern, now I have a word to describe what I was doing without realizing it! Björn is the author of a strong type library, but he showed us how to prevent errors in our code, with better types, explicit conversions, enum classes and spaceship operator, great stuff! Thank you!
 
+Last talk of the day! I was so excited for my friend Thamara Andrade that was doing her first talk in a C++ conference, like me! I met her during the online editions of CppCon and was delighted to see her coming in Canada for the first time! Her talk was about **Object Lifetime: From Start to Finish**. A *simple* subject at first glance, but immensely deep when looking at the details. I learned a lot about temporary object's lifetime! There are so many corner cases, like how the lifetime extension works and in which situation you will not get the extension you want. Thank you Thamara for comming in Canada, I hope to see you again in person next year!
+
+**Lightning Talks!** There we many great moment during the lightning talks as always, Tony Van Eerd was hosting them with his usual jokes and quotes. I particularely liked Jessica Kerr's and Miro Knejp ones, I think they are going to be instant classics once on YouTube. I had so many ideas, but so little time to prepare something, that I decided to do a 'Making of...' of my talk on particles simulation. I was the last speaker, like last year, but I'm not sure I have done enough to explain the kind of work I did. I didn't have any slides, and just showed the ppt structure, the way I did the videos, and where I cheated with *not*-real-time animations :-P
+
+Anyway, off to get food and talk about C++ over a nice beer in a super chill *terrasse* in Toronto!
 
 ## Day 3
+
+Last day of the conference :_(
+
+But not the least, we are having a lot of great content today so let's start!
+
+**I can write the code. But getting something done is another matter.** Jessica Kerr nailed it! There were so many gems in there, it's the talk that I took the most notes of! She shoed us a couples of examples where getting things done, is not just about writing the code. Socializing the change is much more important. I learned about symmathesy (hehe) and open telemetry. Ok here are some notes: 'symmathesy! a learning system' - 'Run new and old and compare' - 'Shadow deploy, but not for eveything, mostly critical paths' - 'Free customers for tests, don't bother power users!' - 'Socializing change!' - 'Hack weeks!' - 'Problem definition > problem solving' - 'User expectations!'
+A really good subject, that is well aligned with any workplace, I will absolutely show that video to our management and dev teams!
+
 
 
