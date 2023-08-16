@@ -101,14 +101,44 @@ Anyway, off to get food and talk about C++ over a nice beer in a super chill *te
 
 Last day of the conference :_(
 
-But not the least, we are having a lot of great content today so let's start!
+But not the least, we are having a lot of great content today so let's start! We are treated with a surprise! Bloomberg joins as a Gold sponsor! We're going to have another CppNorth next year, wooooohooooo!!!
 
 **I can write the code. But getting something done is another matter.** Jessica Kerr nailed it! There were so many gems in there, it's the talk that I took the most notes of! She shoed us a couples of examples where getting things done, is not just about writing the code. Socializing the change is much more important. I learned about symmathesy (hehe) and open telemetry. Ok here are some notes: 'symmathesy! a learning system' - 'Run new and old and compare' - 'Shadow deploy, but not for eveything, mostly critical paths' - 'Free customers for tests, don't bother power users!' - 'Socializing change!' - 'Hack weeks!' - 'Problem definition > problem solving' - 'User expectations!'
 A really good subject, that is well aligned with any workplace, I will absolutely show that video to our management and dev teams!
 
 A tool I really should use more is Matt Godbolt's eponimous website. **What’s New in Compiler Explorer?** revealed even more cool features that are really useful. It's fun to see how the project got started, a simple 2 second loop to rebuild a simple function and display the output. Everything about this presention was great! Go see this!!
 
+Another time for a run to the St-Lawrence market, but this time I grab a burrito to eat at the park close by. I'm so lucky to be here at the same time as a singer! She played a couple of ballades and serenades for the park, how cool is Toronto!
+![IMG_3232](https://github.com/joblobob/conferences/assets/5419436/fba8adf7-8bf5-400c-8daa-7e702608e028)
+
+
 Last talks before the ending keynote, so I go to see **C++ Feature Coroutines, Beginner Friendly** by Andreas Fertig. And wow! I absolutely recommend it to anyone that wants to understand the coroutine's ecosystem! It was a 90mins talk so there were plenty of time to understand each of his examples, and I can finally say that I feel like I do get coroutines! (like Neo, *-I learned Kung-fu!*) co_await gets the input, co_yield calls yield_value() and co_return ends the coroutine, simple! Lambdas can be couroutine! cool! I feel like a lot of eventful data processing will be written using coroutine! I know I'll do now! Thanks Andreas!
 
-It's with a feeling of fulfillment that I go to the ending keynote by Timur Doumler, **Contracts, Testing, and the Pursuit of Well Defined Behaviour**. Contracts seem to be a big feature of C++26, and we get a good overview of what pre conditions and post conditions can do, while also showing different proposed syntax. 
+It's with a feeling of fulfillment that I go to the ending keynote by Timur Doumler, **Contracts, Testing, and the Pursuit of Well Defined Behaviour**. Contracts seem to be a big feature of C++26, and we get a good overview of what pre conditions and post conditions can do, while also showing different proposed syntax. The future looks bright!
+
+But as soon as it's over, I see most people hanging around. Everyone's talking about their plans for the rest of the week, the things we learned, our highlights. I turn over to **Mike Daum** and **Kate Gregory** to thank them, I tell them that I feel like a better programmer then I was 3 days ago, and I haven't touched a single line of code. Hugs were given, hands were shaken but I didn't want to leave. A lot of people didn't want to leave. I try to find everyone I've met to tell them a few last words before having to pack up....
+
+## Post Conference
+
+Fortunately, a group of enthusiasts gather up in the hotel bar for one last time. We quiclky fill up all the space in the bar, and we use all the remaining chairs.
+![IMG_3238](https://github.com/joblobob/conferences/assets/5419436/f8ab70ea-fa14-4b26-b541-b66d65c64a38)
+![IMG_3239](https://github.com/joblobob/conferences/assets/5419436/75e7eb08-cd4a-48ee-91c4-ff59d688b771)
+
+I sit close to Tony Van Eerd, Amund Desmarais, Alex Dathskovsky, Timur Doumler, Andreas Weis, Conor Hoekstra, Ben Deane, and I feel privileged. It feels like a old group of friends, all talking about a sujebt they are passionate about. A lot of laughs, smiles and insights. I had some of my stuff with me so I even took notes while we were talking about interview questions, hehe!
+
+Mike told us that there was a big neibourghs meeting in the area, so I wanted to see that to let some of the traffic pass before I head back home.
+![IMG_3240](https://github.com/joblobob/conferences/assets/5419436/664e050d-fb68-4bd2-b713-130e22d1ce11)
+![IMG_3241](https://github.com/joblobob/conferences/assets/5419436/d08f699d-2fb6-4b8f-9279-07b2e8032551)
+
+Even if I didn't find him there, I felt his presence. He's such a good, profound, caring person. He made all of us so comfortable and welcomed, that I felt that the gathering in this park, was in fact exactly like Him. A group of diverse people, all comming toghether to share, and care, for the singular goal of having a better community. Wow, Thank you. I knnow that there is a big team with him, so we cannot end this without citing the full board of the special people organizing the CppNorth. **KATE GREGORY, MIKE DAUM, JASON WALTER, DIANA OJEDA ARISTIZABAL, NATALIA LEIBENZON, AMUND DESMARAIS, CHRIS RYAN, KAREN KRUEGER, GAELAN MCMILLAN**, YES YOU DESERVE THE ALL CAPS!
+
+With the last sights of Toronto's traffic behind me, I started to reflect on what had just happend to me. 
+7 months ago I started to re-write a JS tutorial to learn C++23 stuff and fluid simulations. Fast forward hundreds of hours of long nights committed to the task, fighting powerpoint and searching for the best way to communicate it, I did *it*. I wanted people to learn while having fun, mission accomplished! One of the volunteers told me that she liked it so much, it made her think about doing fluid simulations too, but most importantly, I inspired her. This is the most rewarding feeling and filled me with joy for the whole drive back to Montreal. 
+
+The content was outstanding, of course, but the real difference with other conferences is the people. **C**aring**P**assionate**P**eople North, is what it should be called. I've heard numerous times this week by other attendees that the setup is perfect to share and talk to everyone, the food is awesome, the venue is classy, the city is great and the content, well, undescribable beause you have to be there to understand. The amount of time in-between talks let's us sink in the new information we've just learned, while asking other about their own view of the subject. The balance between the content vs the agenda was perfect. It is mind blowing, the amount of time, money and efforts that have been put for organizing such a conference, but also the surprises that kept on going for the organizers, but managed to make it feel easy to manage. 
+
+That's when tears of joy started to fill my eyes. I couldn't stop smiling, shouting, and laughing for a good 2 hours. I felt so proud of myself for my first talk, but also for all of the super cool things I just learned and most importantly all of the awesome people I just met. I've met my programming heroes, legends in the field, and they were all so easy to speak with, always happy to answer my weird questions. This is the kind of event that will grow on me. 
+But then the tears of joy got replaced by genuine tears of sadness. I realised that it's going to be a long year before we can do this again. I'm going to miss everything and everyone. I know I can add them to linkedIn or stuff like that, but it's never the same as a real conversation. 
+
+This engaging community changed me forever. Thank you CppNorth!
 
