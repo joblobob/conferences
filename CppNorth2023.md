@@ -79,9 +79,9 @@ That was a blast!! I managed to make the attendance make **'the wave'** to expla
 
 If you want to learn how to use **Modules, Ranges, MDSpan, parallel execution, format, consteval** aaaaaannnnnnd also see some cool fluid animations along the way, go check this on Youtube! I created this talk to be able to learn the exciting new features of C++23 and at the same time learn about fluid simulations! I always understand features and learn much faster when I can *see* the effects of my changes right away. I never thought that I would be learning so much while creating this presentation! I would have been happy learning and using only modules, but instead, the sum of all the features that I learned changed my way of thinking, structuring and writing code. The data is always the key... If you don't understand the data, you don't understand the problem!
 
-If you want to see to code, go ahead! https://github.com/joblobob/fluid
+If you want to see to code, go ahead! [Flip fluid Repo](https://github.com/joblobob/fluid)
 
-If you want to see the code commit by commits, bo ahead! https://github.com/joblobob/ray
+If you want to see the code commit by commits, go ahead! [Development repo](https://github.com/joblobob/ray)
 
 
 I also had a lot of good feedback! :-D
