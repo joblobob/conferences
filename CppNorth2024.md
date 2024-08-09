@@ -43,7 +43,9 @@ Then the Classic Keynote from Kate Gregory, it's something of a tradition now, a
 
 Then I went to see 'C++ is a meta compiler' by Daniel Nikpayuk. For me, he's the only real native here. He is from Inuvik, a very ancient and northern community of Canada. His talk showed how to create a DSL (Domain specific language) using C++ to help with multimedia/storytelling generation. I'm very honored and proud to have shared a few words with him, and grateful for him to share his ideas and passions.
 
-After some very good lunch, and an afternoon filled with great talks (oh yeah, I had mine during this afternoon, hehe, A gaussian splatting viewer made to learn about this new 3D scene modeling technology. Oh, and went to learn coroutines at the same time, really fun times! I think it went well, although a little short in 60 minutes, I had to rush on a lot of things because I had too much content! Sorry!), some of us went to the Belonging dinner! 
+After some very good lunch, and an afternoon filled with great talks (oh yeah, I had mine during this afternoon, hehe, A gaussian splatting viewer made to learn about this new 3D scene modeling technology. 
+Oh, and went to learn coroutines at the same time, really fun times! I think it went well, although a little short in 60 minutes, I had to rush on a lot of things because I had too much content! Sorry!), some of us went to the Belonging dinner! 
+
 Negar Farjadnia made a little presentation where she shared her story, and how an immigrant from Iran with little money, 2 suitcases and barely no contacts in Toronto, managed to get a job in IT and grow a 15 years career as a security expert. Absolutely great, inspiring and very easy to speak with! (I ate at the same table, hehe)
 ![IMG_4967](https://github.com/user-attachments/assets/0fd1a2a0-f61a-4231-810a-4382b89943a8)
 
