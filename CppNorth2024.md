@@ -99,10 +99,11 @@ What I will remember from this year's edition... is once again the **people**!. 
 ![IMG_4985](https://github.com/user-attachments/assets/d8474c40-9648-4226-bc15-45bb7aea34e9)
 ![IMG_4987](https://github.com/user-attachments/assets/f3746964-7d77-47c7-bc3b-03174f3cf70a)
 
-At the end of the day, it was very hard for me to have to say goodbye. 
-My family was coming for some vacation time, and we were fortunate enough to have Miro Knejp have dinner, and brunch with us!
 
 ![IMG_4988](https://github.com/user-attachments/assets/69e99606-83c6-468f-906e-a040320e7559)
 
+At the end of the day, it was very hard for me to have to say goodbye. 
+My family was coming for some vacation time, and we were fortunate enough to have Miro Knejp have dinner, and brunch with us!
 
+I hope to see you all again for another great edition next year!! Thank you, Caring Passionate People!
 
