@@ -21,7 +21,7 @@ we'll see in the video if it went well, I think I forgot to say "Fasten your sea
 As per the tradition, we are all invited to a Sunday reception in the Hotel, to get our badges and meet our new friends for the next 3 days! The place is packed with very good and motivated speakers/attendees, it's a pleasure to see them returning for another round :-)
 
 After the reception, I looked for a place to relax and fortunately there was a great little bar right across the street! The Loose Moose would then become our after-hour place to sit and enjoy a little programming discussion!
-![IMG_4952](https://github.com/user-attachments/assets/8ac9f2bf-e3fc-4da0-b16b-5f774ffcaf80)
+![half1](https://github.com/user-attachments/assets/5da6fbcb-e01d-4c59-9f68-2bf252a4d0d6)
 
 
 But since Toronto is such a beautiful city at night, I strolled to the pier (hehe) and watched the illuminated spectacle, taking a moment to realize what a crazy week it's going to be...
