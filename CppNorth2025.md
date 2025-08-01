@@ -33,13 +33,20 @@ Great thing about CppNorth this year is that breakfast is included! Everyone gat
 
 After a quick and effective words from Karen Connelly and Mike Daum, we greet Kate Gregory for her annual Keynote. More than a tradition, it has become the landmark of the conference. People were quoting her all week long. Once again such a relevant talk about how to change the world by changing our worlds one little good action at the time. Truly inspiring.
 
-Already time for the first talk of the day; Taming a beast using onnx runtime in AAA games by Jean-Simon Lapointe. Absolutely great. I really need to re-watch this one, I thought he was showing us how to integrate ONNX in a codebase all along, but as I was digesting it at close to midnight, I realized that I was thinking so much about his talk because he didn't show me how to integrate this library in a codebase. He show all of us how Great Project Management works!! It was a great was to show us how applied software engineering should be done t all levels. Thank you Jean-Simon! 
+Already time for the first talk of the day; Taming a beast using onnx runtime in AAA games by Jean-Simon Lapointe. Absolutely great. I really need to re-watch this one, I thought he was showing us how to integrate ONNX in a codebase all along, but as I was digesting it at close to midnight, I realized that I was thinking so much about his talk because he didn't show me how to integrate this library in a codebase. He show all of us how Great Project Management works!! It was a great way to show us how applied software engineering should be done at all levels. Thank you Jean-Simon! 
 
-Lunch was provided by the conference, excellent variety of plates, good times!
+Lunch was provided by the conference, excellent variety of plates, good times to talk with amazing people!!
+
+Then, after a great afteenon of both technical and non-technical talks, there was a surprise keynote by the one and only... Tony Van Eerd! Shoudld we check for Null? Now we all know the correct answer.... "it depends"!! Again, an awesome plunge into the real world, with simple questions, entertaining essays, and engaging responses. We should all thank Tony for another thought provoking talk! I can't wait for contracts now! (only to have others ignore them! haha!)
+
+Monday was packed! We finished with the belonging dinner, with a mindful talk by Seavey van Walsum, University of Toronto, **Human Centred** Data Science Masters Student. Wow, what an appropriate title in those times! Altough not long enough for me, I loved every minute of her talk! How to center the human through our computer centric society is getting very difficult, this is just another example on how open to each other we shoud be.
+
+After an eventful day (seems like i've been here already for 1 week!) we retreated with a couple of fellow friends for drinks at a local venue ;) 
 
 
 ## Tuesday, Day 2!
 
+The second day will be memorable! I will be the host of the Lightning talks! Yesterday I was up really late to get more peple to join the fun!
 
 
 ## Wednesday, Day 3 :'(
