@@ -48,6 +48,31 @@ After an eventful day (seems like i've been here already for 1 week!) we retreat
 
 The second day will be memorable! I will be the host of the Lightning talks! Yesterday I was up really late to get more peple to join the fun!
 
+My schedule for the day is packed!
+
+**Sheena Yap Chan**: Building Confidence to Foster Inclusive and Collaborative Tech Communities
+**Olivia Wasalski**: On coding guidelines, class invariants, and special member functions
+**Tom Sellek**: The 10x Team
+**Oleksandr Kunichik**: Bridging C++ and Java with Qt JNI: An Android Application for On-Device Landmine Detection
+and
+**Sherry Sontag, Lara Bailey, Marek Paska, Michelle D'Souza, John Pavan, Cal Pratt**: Building a career off-road
+
+Ouuuuu lalaaah!! 
+
+**Sheena** got it going with a wonderful keynote about confidence in ourselves, our work, and our teams. We really need to get the point about how to get teams working together!
+
+**Olivia** is now one of my favorite speakers among all the others! Yes, I'm sorry for all the other greats, but she is absolutely killing it! 
+How can you explain how/what good code looks like with such deep and complex subjects with only a handful of carefully "clapmed" examples :D :D "hashtag" mindblowned, like my kids would say!
+
+**Tom** has been on everyone's lips this year, I think that he nailed the importance of teams.... but really, really focused on how a good team should look like and how we can all make our a little better :) 
+All I can say is:
+<img width="335" height="274" alt="image" src="https://github.com/user-attachments/assets/6be1f8f7-46ad-44c9-b46b-e1f1c5c5f1dd" />
+
+**Oleksandr** showed us how we can all become useful for the world, with our talents. We can all take 2 libraries, put them together and call it a day. This is our jobs.
+
+But who can acutally prove that they have been saving lives with their code? I bet only a few of us. I cannot thank him enough for being here, and telling us his story and how his little drop in the ocean could help save lives...
+
+And then came the panel, out of which I think I learned more about how free time can lead to great advancement compared to how to build a carrer "off road, but I really liked the vibe of the panel and the audience, being on the edge of our seats the whole time to hear each others stories and how it lead to their current position. Really insipiring!
 
 ## Wednesday, Day 3 :'(
 
