@@ -65,7 +65,9 @@ Ouuuuu lalaaah!!
 How can you explain how/what good code looks like with such deep and complex subjects with only a handful of carefully "clapmed" examples :D :D "hashtag" mindblowned, like my kids would say!
 
 **Tom** has been on everyone's lips this year, I think that he nailed the importance of teams.... but really, really focused on how a good team should look like and how we can all make our a little better :) 
+
 All I can say is:
+
 <img width="335" height="274" alt="image" src="https://github.com/user-attachments/assets/6be1f8f7-46ad-44c9-b46b-e1f1c5c5f1dd" />
 
 **Oleksandr** showed us how we can all become useful for the world, with our talents. We can all take 2 libraries, put them together and call it a day. This is our jobs.
