@@ -51,10 +51,14 @@ The second day will be memorable! I will be the host of the Lightning talks! Yes
 My schedule for the day is packed!
 
 **Sheena Yap Chan**: Building Confidence to Foster Inclusive and Collaborative Tech Communities
+
 **Olivia Wasalski**: On coding guidelines, class invariants, and special member functions
+
 **Tom Sellek**: The 10x Team
+
 **Oleksandr Kunichik**: Bridging C++ and Java with Qt JNI: An Android Application for On-Device Landmine Detection
 and
+
 **Sherry Sontag, Lara Bailey, Marek Paska, Michelle D'Souza, John Pavan, Cal Pratt**: Building a career off-road
 
 Ouuuuu lalaaah!! 
@@ -75,6 +79,16 @@ All I can say is:
 But who can acutally prove that they have been saving lives with their code? I bet only a few of us. I cannot thank him enough for being here, and telling us his story and how his little drop in the ocean could help save lives...
 
 And then came the panel, out of which I think I learned more about how free time can lead to great advancement compared to how to build a carrer "off road, but I really liked the vibe of the panel and the audience, being on the edge of our seats the whole time to hear each others stories and how it lead to their current position. Really insipiring!
+
+
+After only a quick rehersal in my hotel room, I got to the venue for an evening of Lightning Talks! Hosted by... myself!!
+
+I prepared a little recap of the previous editions, with funny moments and highlighting I really liked. I was so happy to see Mike just in front of me, being absolutely enjoying his moment :)
+
+We had a completely packed 1h45m of talks, anecdotes and inspiring quotes! I love the fact that we had 3 volunteers doing lighting talks! (Okay, maybe I influenced/pushed them into it but they were great!!)
+We had so many fun and diverse set of speakers, I'm absolutely happy with the turnout. Everyone after the evening were mentionning the great quality of lightning talks! Great energy!
+
+I couldn't sleep, so after the local restaurent kicked us out, I went for a stroll in the park. Where I made a funny comment to someone and we went then to speak for almost an hour. This homeless guy came from New-Brundswick, liked swimming but hated sharks, played piano and sang songs, and was genuinly a very good hearted person. He even shared me his intragram account. I was very happy to be able to share a moment with him, but I knew that was only temporary. I'm very saddened that I coulnd't do anything for him, other then be a good ear.
 
 ## Wednesday, Day 3 :'(
 
