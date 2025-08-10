@@ -92,5 +92,24 @@ I couldn't sleep, so after the local restaurent kicked us out, I went for a stro
 
 ## Wednesday, Day 3 :'(
 
+I'm sad because it's the last day on the conference.... But no time for tears! Scott Hanselman is here for the opening Keynote! I had already met him on the sunday when he arrived at the Hotel. What an honor :P It's pretty rare that keynotes stay for the whole conference, it was amazing. I'm sure that everyone that talked to him agrees that he is really inspirational and we can feel how he cares about people.
+This is a "peoples" conference, not a tech conference(surprise!) and it shows. For me, the 'Cpp' in CppNorth stands for Caring Passionate People. That title could also include Scott. What an amazing person, and and amazing keynoter. Thank you!!
+
+My highlights of the rest of the day was about how 
+.......................................................................................
+
+And then came the closing Keynote.... I don't know what happened, hehehe (maybe?) but Alex told me that I would be included into his talk, but I had no idea where or how. I found it suspicious that he asked me to send him all the pictures that I have of him first :D
+
+
+<img width="399" height="214" alt="image" src="https://github.com/user-attachments/assets/5153a930-adaf-45a0-b989-6554ffb56688" />
+
+| | | |
+|-|-|-|
+|<img width="398" height="207" alt="image" src="https://github.com/user-attachments/assets/660f87e8-0e47-4699-a30a-aa8296a2c7c7" />|<img width="401" height="219" alt="image" src="https://github.com/user-attachments/assets/ae2d466f-1a64-4a9a-a372-9d8e48033f6d" /> |<img width="403" height="235" alt="image" src="https://github.com/user-attachments/assets/bb66f375-93d9-4220-8f9e-1be3a5bf155e" />|
+
+hehe I have 1 more :)
+
+
+
 
 I hope to see you all again for another great edition next year!! Thank you, Caring Passionate People!
