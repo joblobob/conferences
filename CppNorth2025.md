@@ -1,4 +1,4 @@
-**disclaimer:** No LLMs were used in the composition of this page, only human errors, bad grammar and lots of exclamation points waiting, thank you!!
+**disclaimer:** No LLMs were used in the composition of this page, only human errors, bad grammar and lots of exclamation points waiting, thank you!! (oh and big images, I didn't resize them, so... sorry for download time!)
 
 # **CPPNorth2025!**
 
@@ -122,8 +122,8 @@ This is a "peoples" conference, not a tech conference(surprise!) and it shows. F
 
 Thank you!!
 
-My highlights of the rest of the day was about how 
-.......................................................................................
+My highlights of the rest of the day were about **Graphics Programming with SDL 3**, by **Mike Shah**, **Why are software engineers so hard to replace** by **Heather Crawford** and **John Pavan** and finally **Debugger Visualizers to Make Your Code Accessible** by the one and only **Braden Ganetsky**. I learned a lot, a lot of things that I can directly go back to work and try to use. I love it when I can relate to a talk that isn'T directly related to my field, and all of them were home runs. (hehe, yeah)
+
 
 And then came the closing Keynote.... I don't know what happened, hehehe (maybe?) but Alex told me that I would be included into his talk, but I had no idea where or how. I found it suspicious that he asked me to send him all the pictures that I have of him first :D
 
@@ -136,6 +136,7 @@ And then came the closing Keynote.... I don't know what happened, hehehe (maybe?
 
 hehe I have 1 more :)
 
+![IMG_6117](https://github.com/user-attachments/assets/72c2c4c0-5919-4e30-a0b9-4902165bff8f)
 
 
 
